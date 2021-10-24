@@ -1,0 +1,4 @@
+Save/Load Gui: true,
+Format Colored Names: true,
+Close No Packet: false,
+Freeze Packets: false

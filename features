@@ -1,4 +1,5 @@
 Save/Load Gui: true,
 Format Colored Names: true,
+Crash SB Server: true,
 Close No Packet: false,
 Freeze Packets: false
